@@ -3,4 +3,4 @@ function taro68(){document.getElementById('who68').innerHTML='太郎';}
 function hanako68(){document.getElementById('who68').innerHTML='花子';}
 
 
-function gazo688(){document.getElementById('who688').innerHTML='<imag src="./image/="オン">';}
+function gazo688(){document.getElementById('who688').innerHTML='<imag src="./image/スクリーンショット (15).png" alt="オン">';}
