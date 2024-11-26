@@ -1,4 +1,4 @@
-function hyouji(){
+function hyoji(){
   //表示する文字
   var str="一文字ずつ表示します。";
   //テキストボックスの文字数
@@ -12,4 +12,4 @@ function hyouji(){
     document.timer.moji.value="";}}
 function startfnc(){
   //関数hyoji()を1000ミリ秒間隔で呼び出す
-  setlnterval("hyouji()",1000;}
+  setlnterval("hyoji()",1000;}
