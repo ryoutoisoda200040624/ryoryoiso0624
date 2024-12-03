@@ -1,3 +1,3 @@
 function imgchange5(){src='./image/happakomarigao.png';}
 
-function happa(){
+function happa(){src='./image/happamotonokao.png';}
