@@ -1,5 +1,4 @@
-Number('x');
-Number('y');
+
 
 function add(){ 
   var x =document.getElementById('input1').value;
