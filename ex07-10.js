@@ -6,7 +6,7 @@ function BMI2(){
   function taiju(){
 if(document.getElementById('answer10').value=='<18.5'){
   alert('低体重')}
-    else if(document.getElementById('answer10').value=='=>25'{
+    else if(document.getElementById('answer10').value=='=>25'){
             alert('肥満')}
     else{alert('普通')}
 }
