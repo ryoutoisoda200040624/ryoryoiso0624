@@ -4,7 +4,7 @@ function BMI2(){
   alert(Number(x)/(Number(y)**2));
 }
   function taiju(){
-    var z =Number(x)/(Number(y)**2;
+    var z =Number(x)/(Number(y)**2
 if(document.getElementById('answer10').value'z<18.5'){
   alert('低体重')}
     else if(document.getElementById('answer10').value'z>=25'){
