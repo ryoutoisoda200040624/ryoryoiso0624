@@ -4,9 +4,10 @@ function BMI2(){
   alert(Number(x)/(Number(y)**2));
 }
   function taiju(){
-if(document.getElementById('answer10').value<'18.5'){
+    var z =Number(x)/(Number(y)**2;
+if(document.getElementById('answer10').value'z<18.5'){
   alert('低体重')}
-    else if(document.getElementById('answer10').value>='25'){
+    else if(document.getElementById('answer10').value'z>=25'){
             alert('肥満')}
     
     else{
