@@ -4,9 +4,9 @@
   var y =document.getElementById('input11').value;
     alert(Number(x)/(Number(y)**2));
    
-if(document.getElementById('answer10').innerHTML < '18.5'){
+if(document.getElementById('answer10').innerHTML < 18.5){
   alert('低体重')}
-    else if(document.getElementById('answer10').innerHTML >= '25'){
+    else if(document.getElementById('answer10').innerHTML >= 25){
             alert('肥満')}
     
     else{
