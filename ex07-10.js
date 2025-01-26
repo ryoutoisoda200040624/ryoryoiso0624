@@ -4,10 +4,10 @@
   var y =document.getElementById('input11').value;
     alert(Number(x)/(Number(y)**2));
 
-    var ko =alert(Number(x)/(Number(y)**2));
-if( ko < 18.5){
+  
+if(  < 18.5){
   alert('低体重')}
-    else if( ko >= 25){
+    else if(  >= 25){
             alert('肥満')}
     
     else{
