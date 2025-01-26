@@ -5,9 +5,9 @@
     alert(Number(x)/(Number(y)**2));
 
   
-if( document.getElementById('answer10').value < 18.5 ){
+if( document.getElementById('nani1').value < 18.5 ){
   alert('低体重')}
-    else if( document.getElementById('answer10').value >= 25 ){
+    else if( document.getElementById('nani1').value >= 25 ){
             alert('肥満')}
     
     else{
