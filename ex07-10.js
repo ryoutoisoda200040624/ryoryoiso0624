@@ -15,7 +15,4 @@ if( document.getElementById('nani1').value < 18.5 ){
 }
 
 
-function nani(){
-    var x =document.getElementById('input10').value;
-  var y =document.getElementById('input11').value;
-    document.getElementById("nani1").innerHTML='input10/(input11**2)';}
+
