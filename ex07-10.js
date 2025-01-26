@@ -13,3 +13,9 @@ if( document.getElementById('answer10').value < 18.5 ){
     else{
       alert('普通')}
 }
+
+
+function nani(){
+    var x =document.getElementById('input10').value;
+  var y =document.getElementById('input11').value;
+    document.getElementById("nani1").innerHTML='Number(x)/(Number(y)**2)';}
